@@ -9,8 +9,8 @@ In each experiment, for each of the 3 DNS services, clients launched ping and tr
 
 **If you use this dataset, please cite [1]:**
 
-[1] *Anycast on the Move: A Look at Mobile Anycast Performance*
-S. Wassermann, J. P. Rula, F. E. Bustamante, P. Casas
+[1] *Anycast on the Move: A Look at Mobile Anycast Performance*  
+S. Wassermann, J. P. Rula, F. E. Bustamante, P. Casas  
 in Proceedings of the 2nd Network Traffic Measurement and Analysis Conference (TMA), Vienna, Austria, 2018
 
 ```
